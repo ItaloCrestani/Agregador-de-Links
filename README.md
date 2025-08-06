@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://italocrestani.github.io/Agregador-de-links/)
+- [Acesse o projeto finalizado, online](https://italocrestani.github.io/Agregador-de-Links/)
 
 
 ## :memo: Licença
